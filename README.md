@@ -1,7 +1,7 @@
-### Hi there 👋
+# :octocat: Hi there :octocat:
 
 
-- 🔭 I’m currently working on ...
+- :tulip: I’m currently working on ... :tulip:
 
 <!--
 **ayumi9937/ayumi9937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
